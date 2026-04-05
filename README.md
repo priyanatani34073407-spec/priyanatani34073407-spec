@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Guna Sri Durgapriya 👋
 
-<!--
-**priyanatani34073407-spec/priyanatani34073407-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Artificial Intelligence Student (2027)  
+☁️ Aspiring Cloud Engineer  
+🤖 Interested in AI, Cloud & Generative AI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python  
+- AWS Cloud (EC2, S3, IAM)  
+- Artificial Intelligence Basics  
+- Prompt Engineering  
+
+---
+
+## 📌 Projects
+- 🎮 Quiz Game using Python  
+- 🎬 Movie Magic (AWS Ticket Booking App)  
+- 🤖 AI Resume Analyzer (Coming Soon 🚀)  
+
+---
+
+## 🏆 Achievements
+- Top 3000 out of 65,000+ in Quantum Computing Program  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://linkedin.com/in/gunasridurgapriya
+- GitHub: https://github.com/priyanatani34073407-spec
